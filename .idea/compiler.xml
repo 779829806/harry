@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="111.main" target="1.8" />
+      <module name="111.test" target="1.8" />
+      <module name="menghuan1.111.main" target="1.8" />
+      <module name="menghuan1.111.test" target="1.8" />
+      <module name="zzz.main" target="1.8" />
+      <module name="zzz.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
